@@ -1,0 +1,31 @@
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Gollum_Shooter_Game.exe
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Gollum_Shooter_Game.pdb
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.csprojResolveAssemblyReference.cache
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.Properties.Resources.resources
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.csproj.GenerateResource.Cache
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.exe
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.pdb
+D:\O_K\LA\C#\курсы С# от InfoPulse\Задания\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.MainForm.resources
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.exe
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.pdb
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Gollum_Shooter_Game.exe
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Gollum_Shooter_Game.pdb
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.csprojResolveAssemblyReference.cache
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.MainForm.resources
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.Properties.Resources.resources
+C:\Users\O.Katiuk\Documents\Visual Studio 2015\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.csproj.GenerateResource.Cache
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Gollum_Shooter_Game.exe
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Gollum_Shooter_Game.pdb
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.csprojResolveAssemblyReference.cache
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.MainForm.resources
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.Properties.Resources.resources
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.csproj.GenerateResource.Cache
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.exe
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\obj\Debug\Gollum_Shooter_Game.pdb
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Audio\bridge_to_Hazadum.wav
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Audio\Gollum_voice.wav
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Pictures\Weapon\archer_small.png
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Pictures\Places\Mirkwood3.jpg
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Audio\Frodo_voice.wav
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Audio\Brave_Heart_Lose.wav
+C:\Users\o.katiuk\Documents\Visual Studio 2017\Projects\Gollum_Shooter_Game\Gollum_Shooter_Game\bin\Debug\Audio\Brave_Heart_Win.wav
